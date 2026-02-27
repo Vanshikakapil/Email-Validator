@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "max": 10,
+                "idleTimeoutMillis": 10000,
+                "connectionTimeoutMillis": 0
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "Aisha@12015",
+            "connectionTimeout": 0
+        }
+    ],
+    "postman.settings.dotenv-detection-notification-visibility": false,
+    "editor.formatOnSave": false,
+    "files.autoSave": "afterDelay"
+}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "framer-motion": "^12.23.0"
+  }
+}
